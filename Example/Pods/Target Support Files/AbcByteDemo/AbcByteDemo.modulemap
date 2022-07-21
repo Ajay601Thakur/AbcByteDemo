@@ -1,0 +1,6 @@
+framework module AbcByteDemo {
+  umbrella header "AbcByteDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
