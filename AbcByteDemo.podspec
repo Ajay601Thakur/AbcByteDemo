@@ -13,7 +13,7 @@ TODO: Add long description of the pod here.
   s.author           = { 'Ajay601Thakur' => 'ajay01493@gmail.com' }
   s.source           = { :git => 'https://github.com/Ajay601Thakur/AbcByteDemo.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '13.0'
   s.source_files = 'AbcByteDemo/Classes/**/*'
   
  
